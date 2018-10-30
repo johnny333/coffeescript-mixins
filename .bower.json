@@ -1,0 +1,13 @@
+{
+  "name": "coffeescript-mixins",
+  "version": "0.0.1",
+  "_release": "0.0.1",
+  "_resolution": {
+    "type": "version",
+    "tag": "0.0.1",
+    "commit": "21bb4f694febb476d8f137ec5c821910bd1c2fd9"
+  },
+  "_source": "ssh://git@gitlab.softja.pl:6001/biblioteki/coffeescript-mixins.git",
+  "_target": "0.0.1",
+  "_originalSource": "git+ssh://git@gitlab.softja.pl:6001/biblioteki/coffeescript-mixins.git"
+}
