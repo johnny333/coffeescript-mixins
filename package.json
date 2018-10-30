@@ -6,7 +6,7 @@
   "main": "lib/mixins.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/dentafrice/coffeescript-mixins.git"
+    "url": "https://github.com/johnny333/coffeescript-mixins.git"
   },
   "scripts": {
     "test": "make test"
